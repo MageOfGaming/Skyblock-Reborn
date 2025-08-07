@@ -81,5 +81,10 @@ hash = "700caca572649f238e804258f79d25969031be3e1b01d0384eb54a13200caba6"
 metafile = true
 
 [[files]]
+file = "resourcepacks/furfsky-reborn.pw.toml"
+hash = "b56bb632dc2e82e66b7f477ae94b3586a18e9727996409e509e51a742a0f22a1"
+metafile = true
+
+[[files]]
 file = "servers.dat"
 hash = "4964a6a75d95ac41893e9a0991563a98780c5a7f963b795b3e10a35c63902f5b"
