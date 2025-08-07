@@ -1,0 +1,13 @@
+name = "Skyblock: Reborn"
+author = "robdu"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "1b4625528054bcd68f9c5d1a5ef83940e644fc10403a4db13dc9c2796a6c6473"
+
+[versions]
+fabric = "0.17.0"
+minecraft = "1.21.5"

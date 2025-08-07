@@ -1,0 +1,84 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/Firmament-3.4.0+mc1.21.5.jar"
+hash = "0438b0522df2cba74e007353a4f7bf6d3155c691dd0809826c3aad704e08144b"
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "f6d959f9e7d1589110a995fe01655183ad9ccae0998ef2f93f8ea40fd814d863"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "287209b1b1b7c27f11f59ef3eda5fb5f4431aa6b51701870a426c0b39da74fce"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "1c3632cffeb0bcb78d4e897116bb7d3f123d6fde8f065b74085eadd64a687c36"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "092c3d73d2457a5c77e3ade8dd83b26d3714f1853de53298b74901eacaeb1988"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "7e103db4e27121c3c96b490b67da24059a8d90e1b5ba44898c49b3999a7b4f2b"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "e79d224bd664cd189049b6a91b677e2ea6cbc6e27da026c44d73b66cca4d8dc0"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore-fabric.pw.toml"
+hash = "3dcc43cbc807ec49377efe574b4670ee91e62474aee1bcd068495adea8bc1f6a"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "29d81a30d4acfc46fda4cfa4c40e57b49ce9823796b3b173daf059f679c2b675"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "e42e9478d889222075b8fc20a9d934520fe153471d388fe5291d29d7ceef0c81"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "9a2cf1b5b5f996fdecc1c2b099fc715b20996bb0bd3b22b2af2588ec2abed567"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.pw.toml"
+hash = "c591931a65def7a137ff893302f2e77bbfdcaddb9b04471ba0fec05d78340445"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "43c681d7b3a80aebfe98b3fd2ecbef2c7bf00b2dab9e0ad1e523c3ae4156c657"
+metafile = true
+
+[[files]]
+file = "mods/skyblocker.pw.toml"
+hash = "4d1a87d387c493f6f0b69c1527ea718ee6eece2cc9f89e905de2d8b2601edfba"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "2bbbe84ce305111cb5cd483ddb75497da9fac5e29074ba527fcbb719c8f5e8f8"
+metafile = true
+
+[[files]]
+file = "mods/text-placeholder-api.pw.toml"
+hash = "c5a294ef234b8a198822c9ec440f518fc07b403d0b9d43322bb1374010392ee5"
+metafile = true
+
+[[files]]
+file = "servers.dat"
+hash = "4964a6a75d95ac41893e9a0991563a98780c5a7f963b795b3e10a35c63902f5b"
