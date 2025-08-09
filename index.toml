@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/skyblocker/hud_widgets.json"
+hash = "208bdf24a5c4870f12dc27e63e4d7ed8b88c149d2e685b753de87379c91fbf8d"
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "a463f60553d19dc6cdb468e8a0f9faa73fd6694f8eb87fe11532c81e9c908dcf"
 metafile = true
@@ -63,6 +67,11 @@ metafile = true
 [[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "799419e64ed42a8175333c541a08995fc4d84a2c6000877f60262fe55892e3ff"
+metafile = true
+
+[[files]]
+file = "mods/rei-search-bar-calculations.pw.toml"
+hash = "6e7d10f3933c5e85b2ba9c5a7b0e550d5af9f2a0455483e54f1746584a742f2e"
 metafile = true
 
 [[files]]
