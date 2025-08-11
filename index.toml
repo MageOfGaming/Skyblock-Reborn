@@ -90,6 +90,11 @@ hash = "700caca572649f238e804258f79d25969031be3e1b01d0384eb54a13200caba6"
 metafile = true
 
 [[files]]
+file = "mods/tooltip-scroll.pw.toml"
+hash = "c6fde1b7c9da84cc6dcd1259bd63ad354f9a251c5510d4dac0f7b76b9cebb4e0"
+metafile = true
+
+[[files]]
 file = "resourcepacks/furfsky-reborn.pw.toml"
 hash = "b56bb632dc2e82e66b7f477ae94b3586a18e9727996409e509e51a742a0f22a1"
 metafile = true
