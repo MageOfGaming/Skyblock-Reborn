@@ -1,8 +1,28 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/betterf3.json"
+hash = "e934a05ef8a736b389abe8e029ef54fabbb5caab7384d09fc1870718f5c30577"
+
+[[files]]
+file = "config/skyblocker.json"
+hash = "e1b87b3a08307141c3ef0597963a855157aca399f42373ecdf2b47877cd049a6"
+
+[[files]]
 file = "config/skyblocker/hud_widgets.json"
 hash = "208bdf24a5c4870f12dc27e63e4d7ed8b88c149d2e685b753de87379c91fbf8d"
+
+[[files]]
+file = "config/tooltipscroll.json"
+hash = "7c6c8c20c2b82ca4c16938619287e39dd71f0bac7363d611ec3b9709aa7b8451"
+
+[[files]]
+file = "configureddefaults/README.md"
+hash = "7d856d3f9655abc661ac67b450a0c956bbf80323786b407301fbdca02d2c5b8b"
+
+[[files]]
+file = "configureddefaults/options.txt"
+hash = "69d4f8dab13b723be678e5e754570f4eb6528d827ae9a270b8c9d6b89b8d135a"
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
