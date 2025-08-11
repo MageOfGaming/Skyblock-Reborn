@@ -10,6 +10,11 @@ hash = "a463f60553d19dc6cdb468e8a0f9faa73fd6694f8eb87fe11532c81e9c908dcf"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "77379dd0a1fe6f5b648081b881f7a6cff12f28e89f79f391240ed6ebb953532b"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "dc1578a021bb4e5699524f5216d8aa9b08c9d30bfbfe0bc72bf07f5391c3f3b5"
 metafile = true
@@ -22,6 +27,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "b37d9f4fb121ed3f9e766cebf90007f9ed73cd082571772364deb6a05f8d2123"
+metafile = true
+
+[[files]]
+file = "mods/default-options.pw.toml"
+hash = "641201578a6f36243f4169ec9f6b63b439efba0180dea0afebc299d1d0372494"
 metafile = true
 
 [[files]]
